@@ -39,6 +39,7 @@ I learn best by shipping — every project below is something I built end-to-end
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 **Data / Infra**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -57,6 +58,7 @@ I learn best by shipping — every project below is something I built end-to-end
 
 | Project | What it does |
 |---|---|
+| **[claude-agent-toolkit](https://github.com/AbhaydityaPratapSingh/claude-agent-toolkit)** [![Release](https://img.shields.io/github/v/release/AbhaydityaPratapSingh/claude-agent-toolkit?style=flat-square&label=release)](https://github.com/AbhaydityaPratapSingh/claude-agent-toolkit/releases) | Tools for managing Claude Code subagents — a shared vocabulary package (`agent-core`), a terminal dashboard (`agent-manager`), and an Electron desktop app (`agent-studio`) for creating, editing, and delegating to subagents, with cost/token tracking per run. Ships Windows and macOS builds via CI. |
 | **[llm-gateway](https://github.com/AbhaydityaPratapSingh/llm-gateway)** | A centralized, OpenAI-compatible gateway for routing LLM traffic through one controlled API surface — multi-provider routing (OpenAI/Anthropic/Gemini/Groq), Redis rate limiting & caching, automatic fallback chains, cost tracking, and a Next.js admin/customer dashboard. |
 | **[BudgetGuardian](https://github.com/AbhaydityaPratapSingh/BudgetGuardian)** | An AI budgeting coach that syncs real bank data (Setu Account Aggregator) and uses Gemini to analyze spending, enforce budget guardrails, and give blunt, personality-driven financial feedback. React + Vite frontend, Node/Express backend. |
 | **[microplastic-detection](https://github.com/AbhaydityaPratapSingh/microplastic-detection)** | A deep learning research project detecting and classifying microplastics from spectral and image data, using a 1D-CNN for spectral signatures and a ResNet for image classification. |
