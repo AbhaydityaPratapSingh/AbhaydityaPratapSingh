@@ -1,60 +1,32 @@
-<h1 align="center">Hi, I'm Abhayditya Singh 👋</h1>
+<h1 align="center">AbhaydityaPratapSingh</h1>
 
 <p align="center">
-  Learning to build across the stack — <b>full-stack web development</b>, <b>agentic AI</b>, and <b>AI/ML</b>.
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,vite,tailwind,nodejs,express,fastapi,postgres,sqlite,redis,docker,pytorch,electron&theme=dark" alt="tech stack" />
 </p>
+
+```text
+● ● ●  abhay@github:~$ whoami
+AbhaydityaPratapSingh
+Full-Stack & Applied AI Developer
+
+● ● ●  abhay@github:~$ cat focus.txt
+Learning to build across the stack — full-stack web development,
+agentic AI, and AI/ML. I learn best by shipping: every project below
+is something I built end-to-end, not a copy of a tutorial.
+```
 
 <p align="center">
   <a href="https://github.com/AbhaydityaPratapSingh?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repos" />
   </a>
+  <a href="mailto:abhaydityapratapsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🌱 What I'm currently learning
-
-- **Full-Stack Web Development** — building complete products, from APIs to frontend UI, not just tutorials
-- **Agentic AI** — LLM-powered systems that route, reason, and take actions (see `llm-gateway` below)
-- **AI/ML** — applied deep learning on real datasets, from research to deployable models
-
-I learn best by shipping — every project below is something I built end-to-end, not a copy of a tutorial.
-
----
-
-### 🛠️ Tech I've been working with
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-**Data / Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/Deep_Learning-CNN_%2F_ResNet-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
----
-
-### 🚀 Featured Projects
+### `$` ls -la projects/
 
 | Project | What it does |
 |---|---|
@@ -66,13 +38,45 @@ I learn best by shipping — every project below is something I built end-to-end
 
 ---
 
-### 📊 GitHub Stats
+### `$` cat stack.txt
+
+**AI / LLM APIs**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### `$` stats --live
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhaydityaPratapSingh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaydityaPratapSingh&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhaydityaPratapSingh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaydityaPratapSingh&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaydityaPratapSingh&hide_border=true&theme=default" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhaydityaPratapSingh&hide_border=true&theme=github-dark-blue&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhaydityaPratapSingh&bg_color=0d1117&color=39D353&line=39D353&point=39D353&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+### `$` cat notes.log
+
+```text
+[learning]  Agentic AI — LLM-powered systems that route, reason, and take
+            actions across tools (see llm-gateway, claude-agent-toolkit)
+[learning]  AI/ML — applied deep learning on real datasets, from research
+            to deployable models (see microplastic-detection)
+[building]  Full-stack products end-to-end, from APIs to frontend UI
+```
+
+---
+
+<p align="center">
+  <a href="https://github.com/AbhaydityaPratapSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:abhaydityapratapsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
